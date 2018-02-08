@@ -18,7 +18,7 @@ This requires the following:
 0. Clone this repository
 
 	```
-	git clone https://github.com/cipher0x30/spfcheck
+	git clone https://github.com/cipher0x30/spfcheck.git
 	```
 1. Navigate to your destination folder.
 
