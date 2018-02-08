@@ -15,7 +15,7 @@ This requires the following:
 ### Installing
 
 
-0. Clone this repository
+0. Download or clone this repository
 
 	```
 	git clone https://github.com/cipher0x30/spfcheck.git
