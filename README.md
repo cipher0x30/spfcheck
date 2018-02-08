@@ -72,5 +72,5 @@ See also the list of [contributors](https://github.com/cipher0x30/spfcheck/contr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is free to distribute, modify and use with the condition that credit is provided to the creator [cipher0x30](https://github.com/cipher0x30) and is not for commercial use.
 
